@@ -1,6 +1,6 @@
 ## Hi, I'm Commatose!
 
-You might also know me as Comma, or as Oko.
+You might also know me as Comma, Luna, or as Oko.
 I am genderfluid and use any pronouns, but I prefer she/her.
 
 As of right now, I know Python and Brainfuck.
