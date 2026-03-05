@@ -7,7 +7,7 @@ As of right now, I know Python and Brainfuck.
 I want to learn Z80 Assembly, C, C++, Lua, Java, and Kotlin, not in that order.
 I also want to forget Python, since I hate it with every bit of my soul.
 
-Pronouns.page: <a href="https://en.pronouns.page/@Oko_" rel="me">@Oko</a>
+Pronouns.page: <a href="https://en.pronouns.page/@Oko_" rel="me">@Oko_</a>
 
 Website: https://comma.nekos.team/index.html
 
