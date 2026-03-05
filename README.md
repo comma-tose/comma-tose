@@ -8,10 +8,17 @@ I want to learn Z80 Assembly, C, C++, Lua, Java, and Kotlin, not in that order.
 I also want to forget Python, since I hate it with every bit of my soul.
 
 Pronouns.page: <a href="https://en.pronouns.page/@Oko_" rel="me">https://en.pronouns.page/@Oko_</a>
+
 Website: https://comma.nekos.team/index.html
+
 Discord: comma.tose
+
 Stoat: comma.tose#0795
+
 Signal: commatose.18
+
 Matrix: luna-aka-commatose:matrix.org
+
 Mastodon: commatose@tech.lgbt
+
 E-Mail: <a href="mailto:genderfluidcomma@national.shitposting.agency">genderfluidcomma@national.shitposting.agency</a>
