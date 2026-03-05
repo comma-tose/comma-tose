@@ -19,6 +19,6 @@ Signal: commatose.18
 
 Matrix: luna-aka-commatose:matrix.org
 
-Mastodon: <a href="https://tech.lgbt/commatose" rel="me">commatose\@tech.lgbt</a>
+Mastodon: <a href="https://tech.lgbt/commatose" rel="me">commatose(@)tech.lgbt</a>
 
 E-Mail: <a href="mailto:genderfluidcomma@national.shitposting.agency">genderfluidcomma@national.shitposting.agency</a>
