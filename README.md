@@ -9,7 +9,7 @@ I also want to forget Python, since I hate it with every bit of my soul.
 
 Website: https://comma.nekos.team/index.html
 
-Discord: comma.tose
+Discord: lunar.ly
 
 Stoat: comma.tose#0795
 
