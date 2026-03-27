@@ -3,9 +3,9 @@
 You might also know me as Comma, Luna, or as Oko.
 I am genderfluid and use any pronouns, but I prefer she/her.
 
-As of right now, I know Python and Brainfuck.
-I want to learn Z80 Assembly, C, C++, Lua, Java, and Kotlin, not in that order.
-I also want to forget Python, since I hate it with every bit of my soul.
+As of right now, I know Python and Brainfuck. 
+I want to learn C, C++, Bash scripting, and Lua.
+I want to become proficient in Rust, Kotlin, and Java.
 
 Website: https://comma.nekos.team/index.html
 
