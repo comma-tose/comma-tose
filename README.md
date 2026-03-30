@@ -9,7 +9,7 @@ I want to become proficient in Rust, Kotlin, and Java.
 
 Website: https://comma.nekos.team/index.html
 
-Discord: lunar.ly
+Discord: nil.luna
 
 Stoat: comma.tose#0795
 
