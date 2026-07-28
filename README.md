@@ -17,4 +17,4 @@ Matrix: luna-aka-commatose:matrix.org
 
 Mastodon: <https://tech.lgbt/@commatose>
 
-E-Mail: <a href="mailto:genderfluidcomma@national.shitposting.agency">genderfluidcomma@national.shitposting.agency</a>
+E-Mail: Don't
